@@ -30,4 +30,21 @@
 .footer {
 	width: 100vw;
 	height: 100px;
+	background-color: #E37629;
 }
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #BFD8FF;
+	color: #0C3E6E;
+}
+
+/* Color Theme Swatches in Hex */
+.Statistic-web-design-1-hex { color: #BFD8FF; }
+.Statistic-web-design-2-hex { color: #7DB3FF; }
+.Statistic-web-design-3-hex { color: #276DCF; }
+.Statistic-web-design-4-hex { color: #0C3E6E; }
+.Statistic-web-design-5-hex { color: #E37629; }
+
+
