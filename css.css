@@ -7,6 +7,8 @@
 
 .header {
 	width: 100%;
+	padding-left: 10px;
+	padding-top: 10px;
 }
 
 .logo {
@@ -50,3 +52,11 @@ body {
 .Statistic-web-design-5-hex { color: #E37629; }
 
 
+p {
+	font-size: medium;
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2 {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
