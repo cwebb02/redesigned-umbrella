@@ -13,6 +13,7 @@
 	width: 100px;
 	height: 100px;
     align-self: flex-start;
+	background-image: url(./logo.png);
 }
 
 .nav {
@@ -24,13 +25,14 @@
 .content {
 	width: 80vw;
 	height: 100vh;
-	background-color: grey;
 }
 
 .footer {
 	width: 100vw;
 	height: 100px;
 	background-color: #E37629;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
 }
 
 body {
